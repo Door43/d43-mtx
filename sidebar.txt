@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mtx:home|Door43 (mtx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mtx|d43-mtx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mtx/archive/master.zip|d43-mtx.zip]]
+
+**Recent Changes**
+{{changes>ns = mtx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mtx|Ethnologue data]]
+
